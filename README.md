@@ -1,13 +1,3 @@
-# Junior
-
-Desenvolvedor fullstack · Brasil
-
-Trabalho com **Java**, **C#/.NET** e **PHP**, do back-end ao front-end. Gosto de APIs bem estruturadas, código limpo e de aprender algo novo todo dia.
-
----
-
-### Tecnologias
-
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -18,9 +8,3 @@ Trabalho com **Java**, **C#/.NET** e **PHP**, do back-end ao front-end. Gosto de
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### Contato
-
-[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) · [E-mail](mailto:SEU-EMAIL@exemplo.com)
